@@ -25,15 +25,15 @@
             <h5 class="card-title text-center">Iniciar sesión</h5>
             <form class="form-signin">
               <div class="form-label-group">
-                <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
+                <input type="email" id="inputEmail" class="form-control in" placeholder="Email address" required autofocus>
                 <label for="inputEmail">Número de distribuidor</label>
               </div>
 
               <div class="form-label-group">
-                <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
+                <input type="password" id="inputPassword" class="form-control in"  placeholder="Password" required>
                 <label for="inputPassword">Contraseña</label>
               </div>
-              <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">Iniciar sesión</button>
+              <button class="btn btn-lg login-btn btn btn-primary btn-block text-uppercase" type="submit">Iniciar sesión</button>
             </form>
           </div>
         </div>
